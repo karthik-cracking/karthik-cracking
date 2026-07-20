@@ -126,9 +126,9 @@ Building professional desktop software, automation tools and game server technol
 
 # Snake
 
-```text
-Enable GitHub Action using Platane/snk to render contribution snake.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karthik-cracking/karthik-cracking/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
 ---
 
