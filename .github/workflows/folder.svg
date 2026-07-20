@@ -1,0 +1,37 @@
+<svg width="852" height="659" viewBox="0 0 852 659" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="topGradient" x1="0" y1="43" x2="852" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6D2DC7"/>
+      <stop offset="100%" stop-color="#6A31C6"/>
+    </linearGradient>
+
+    <linearGradient id="bodyGradient" x1="0" y1="388.5" x2="852" y2="388.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8248DA"/>
+      <stop offset="100%" stop-color="#8A51E2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Folder Back -->
+  <path
+    d="
+      M0 43
+      C0 19 19 0 43 0
+      H280
+      C312 0 322 12 340 30
+      C356 46 372 54 400 54
+      H809
+      C833 54 852 73 852 97
+      V170
+      H0
+      Z"
+    fill="url(#topGradient)"/>
+
+  <!-- Folder Front -->
+  <rect
+    x="0"
+    y="118"
+    width="852"
+    height="541"
+    rx="28"
+    fill="url(#bodyGradient)"/>
+</svg>
